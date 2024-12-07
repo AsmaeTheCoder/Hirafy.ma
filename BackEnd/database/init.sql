@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS 'accounts';
+GRANT ALL ON 'accounts'.* TO 'hirafy'@'%';
+CREATE DATABASE IF NOT EXISTS 'contactez-nous';
+GRANT ALL ON 'contactez-nous'.* TO 'hirafy'@'%';
+CREATE DATABASE IF NOT EXISTS 'email';
+GRANT ALL ON 'email'.* TO 'hirafy'@'%';
+CREATE DATABASE IF NOT EXISTS 'reclamations';
+GRANT ALL ON 'reclamations'.* TO 'hirafy'@'%';
+CREATE DATABASE IF NOT EXISTS 'reviews';
+GRANT ALL ON 'reviews'.* TO 'hirafy'@'%';
