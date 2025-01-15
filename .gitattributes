@@ -1,0 +1,7 @@
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+chemin/vers/le-fichier.extension filter=lfs diff=lfs merge=lfs -text
+documents/rapport.pdf filter=lfs diff=lfs merge=lfs -text
+maquetage/Hirafy.ma.pdf filter=lfs diff=lfs merge=lfs -text
+*.extension filter=lfs diff=lfs merge=lfs -text
+maquetage/Hirafy.ma_compressed.pdf filter=lfs diff=lfs merge=lfs -text
